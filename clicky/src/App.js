@@ -40,3 +40,5 @@ export default App;
 //I felt that somehow I needed to loop my data and create a random url for each item mapped.
 //For the score I think I needed to add to add an onClick() to the pictures that somehow adds 1 each time the image is clicked
 //and then randomizes the images again.
+
+//I was currently able to create a random image link that I console.loged but I could't get it to apply during the map.
